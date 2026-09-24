@@ -195,4 +195,4 @@ Any other columns (ID, name, department, …) are carried over to the report unc
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+© 2026 Tuana Pektaş. All rights reserved.
